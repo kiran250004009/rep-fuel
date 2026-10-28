@@ -1,5 +1,3 @@
-RepFuel Protein Tracker
-
 # 🏋️‍♂️ RepFuel Protein Tracker
 
 **RepFuel** is a clean, lightweight web application designed to help you track your daily protein intake, manage fitness profiles, log food, and follow workout plans. Built with a modern maroon glassmorphism theme and a bento box layout, it works right out of the box with zero installation or build steps required.
@@ -16,6 +14,15 @@ RepFuel Protein Tracker
   - **Food Logging:** Easily record meals and monitor daily protein goals.
   - **Workout Plans:** Follow structured workout routines.
   - **History & Analytics:** Review past logs to keep track of your fitness progress.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** (65.6%) – Core application structure and markup.
+- **C++** (34.4%) – Standalone reference code sample (`loops.cpp`).
+- **CSS3** – Custom styling with CSS Grid, Flexbox, and glassmorphism UI effects.
+- **JavaScript (ES6+)** – Client-side interactions and local storage state management.
 
 ---
 
