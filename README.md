@@ -32,5 +32,4 @@
 ├── index.html        # Main app entry page
 ├── style.css         # Bento layout & maroon glass UI styling
 ├── app.js            # Core app logic (profile, food logging, history)
-├── loops.cpp         # Standalone C++ code sample
 └── README.md         # Project documentation
